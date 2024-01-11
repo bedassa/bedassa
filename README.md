@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @bedassa
-- 👀 I’m interested in deep learning
-- 🌱 I’m currently learning GANs
-- 💞️ I’m looking to collaborate on deep learning
 - 📫 How to reach me beregassa@gmail.com
 
 <!---
